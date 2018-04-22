@@ -36,6 +36,12 @@ npm i react-light-notifications
 
 ## Example
 ```jsx
+import {
+  NotificationContainer,
+  NotificationManager
+} from "react-light-notifications";
+import "react-light-notifications/lib/main.css";
+
 const App = () => (
   <div>
     <button
