@@ -27,7 +27,6 @@
     "react": "16.x"
   },
   "devDependencies": {
-    "bootstrap": "^4.1.0",
     "nwb": "0.21.x",
     "nwb-sass": "^0.8.4",
     "react": "^16.3.2",
