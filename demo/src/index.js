@@ -1,15 +1,8 @@
-import React, {Component} from 'react'
-import {render} from 'react-dom'
+import React from 'react';
+import { render } from 'react-dom';
+import 'bootstrap/dist/css/bootstrap.css';
 
-import Example from '../../src'
+import App from './App';
+import registerServiceWorker from './registerServiceWorker';
 
-class Demo extends Component {
-  render() {
-    return <div>
-      <h1>react-light-notifications Demo</h1>
-      <Example/>
-    </div>
-  }
-}
-
-render(<Demo/>, document.querySelector('#demo'))
+render(<App />, document.querySelector('#demo'));
