@@ -17,10 +17,10 @@
 💡 Note: This project is a modified version of [react-notifications](https://github.com/minhtranite/react-notifications).
 
 <div style="text-align:center;">
-<img src="/demo/src/demo.png" width="450"/>
+<img src="https://raw.githubusercontent.com/farbodsalimi/react-light-notifications/master/demo/src/demo.png" width="450"/>
 </div>
 
-[DEMO](https://farbodsalimi.github.io/react-light-notifications/demo/dist/)
+[LIVE DEMO](https://farbodsalimi.github.io/react-light-notifications/demo/dist/)
 
 ## Installation
 
