@@ -25,7 +25,7 @@
 ## Installation
 
 ```bash
-yarn install react-light-notifications
+yarn add react-light-notifications
 ```
 
 or
