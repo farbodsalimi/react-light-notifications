@@ -1,6 +1,6 @@
 {
   "name": "react-light-notifications",
-  "version": "1.0.4",
+  "version": "1.0.6",
   "description": "react-light-notifications React component",
   "main": "lib/index.js",
   "module": "es/index.js",
